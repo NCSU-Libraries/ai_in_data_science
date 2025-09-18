@@ -1,9 +1,23 @@
+<div align="center">
+
+<a href="https://www.lib.ncsu.edu/" aria-label="nc state university libraries logo"><img src="assets/lib_logo_whiteBG.svg" width="400" alt="NC State University Libraries Logo" /></a>
+
+<h2>NC State University Libraries Python Workshops</h2>
+
+<a href="https://www.lib.ncsu.edu/workshops"><img alt="NC State Libraries Workshops" src="https://img.shields.io/badge/NC%20State%20Libraries-Workshops-red"></a>
+<a href="https://www.lib.ncsu.edu/staff/department/data-science-services"><img alt="Data Science Services" src="https://img.shields.io/badge/Data%20Science%20Services-Libraries-red"></a>
+<a href="https://go.ncsu.edu/getdatahelp"><img alt="GetDataHelp" src="https://img.shields.io/badge/Get%20Data%20Help-go.ncsu.edu%2Fgetdatahelp-red"></a>
+<a href="mailto:getdatahelp@ncsu.edu"><img alt="Email: getdatahelp@ncsu.edu" src="https://img.shields.io/badge/Email-getdatahelp%40ncsu.edu-red"></a>
+<br/>
+
+</div>
+
 # Emergency Room Wait Time Data Analysis
 
 ## 📓 Notebooks Available
 
 ### 🎓 Educational Template (Recommended for Learning)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/er_waittime/blob/main/er_wait_time_data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/ai_in_data_science/blob/main/er_wait_time_data.ipynb)
 
 **`er_wait_time_data.ipynb`** - Interactive learning template with:
 - Step-by-step instructions
@@ -12,7 +26,7 @@
 - Placeholder cells for student work
 
 ### 📊 Completed Analysis (Reference)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/er_waittime/blob/main/er_wait_time_data_filled.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/ai_in_data_science/blob/main/er_wait_time_data_filled.ipynb)
 
 **`er_wait_time_data_filled.ipynb`** - Complete analysis with:
 - All code executed with results
@@ -105,13 +119,6 @@ openpyxl >= 3.1.0
 - Heatmaps and box plots
 - Interactive visualizations
 - Statistical plots
-
-## 🆘 Getting Help
-
-### Data Science Support
-- [go.ncsu.edu/getdatahelp](https://go.ncsu.edu/getdatahelp)
-- [getdatahelp@ncsu.edu](mailto:getdatahelp@ncsu.edu)
-- [Schedule a consultation](https://www.lib.ncsu.edu/services/data-visualization/get-help/appointments)
 
 ## 📚 How to Use These Notebooks
 
