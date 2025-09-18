@@ -61,8 +61,8 @@ Click the "Open In Colab" badge above to run the notebook directly in your brows
 ### Option 2: Local Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/er_waittime.git
-   cd er_waittime
+   git clone https://github.com/NCSU-Libraries/ai_in_data_science.git
+   cd ai_in_data_science
    ```
 
 2. Install required packages:
