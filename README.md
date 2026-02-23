@@ -30,17 +30,17 @@ workshops/
 ## Available Workshops
 
 ### ER Wait Time Data Analysis
-- **Path**: `workshops/er_wait_time/`
-- **Workshop README**: `workshops/er_wait_time/README.md`
-- **Template Notebook**: `workshops/er_wait_time/er_wait_time_data.ipynb`
-- **Filled Notebook**: `workshops/er_wait_time/er_wait_time_data_filled.ipynb`
+- **Workshop Folder**: [workshops/er_wait_time/](workshops/er_wait_time/)
+- **Workshop README**: [workshops/er_wait_time/README.md](workshops/er_wait_time/README.md)
+- **Template Notebook**: [workshops/er_wait_time/er_wait_time_data.ipynb](workshops/er_wait_time/er_wait_time_data.ipynb)
+- **Filled Notebook**: [workshops/er_wait_time/er_wait_time_data_filled.ipynb](workshops/er_wait_time/er_wait_time_data_filled.ipynb)
 
-### Workshop 02: Engine Production Analysis
-- **Path**: `workshops/engine_production/`
-- **Workshop README**: `workshops/engine_production/README.md`
-- **Template Notebook**: `workshops/engine_production/engine_production_data.ipynb`
-- **Filled Notebook**: `workshops/engine_production/engine_production_data_filled.ipynb`
-- **Status**: Includes a lightweight cleaning section before EDA
+### Engine Production Analysis
+- **Workshop Folder**: [workshops/engine_production/](workshops/engine_production/)
+- **Workshop README**: [workshops/engine_production/README.md](workshops/engine_production/README.md)
+- **Template Notebook**: [workshops/engine_production/engine_production_data.ipynb](workshops/engine_production/engine_production_data.ipynb)
+- **Filled Notebook**: [workshops/engine_production/engine_production_data_filled.ipynb](workshops/engine_production/engine_production_data_filled.ipynb)
+- **Facilitation Guide**: [workshops/engine_production/story_map_one_page.md](workshops/engine_production/story_map_one_page.md)
 
 ## Adding a New Workshop
 

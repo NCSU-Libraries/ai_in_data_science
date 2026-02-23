@@ -14,6 +14,8 @@
 
 # Emergency Room Wait Time Data Analysis
 
+- [Back to repository overview](../../README.md)
+
 ## 📓 Notebooks Available
 
 ### 🎓 Educational Template (Recommended for Learning)
@@ -37,21 +39,6 @@
 ## 📊 Overview
 
 This repository contains a comprehensive analysis of Emergency Room (ER) wait time data, designed for educational purposes. The notebook demonstrates data science techniques including exploratory data analysis, statistical testing, and data visualization using Python.
-
-## 🎯 Learning Objectives
-
-By completing this analysis, you will learn to:
-- Load and inspect healthcare datasets
-- Perform exploratory data analysis (EDA)
-- Apply statistical tests to healthcare data
-- Create meaningful visualizations
-- Draw actionable conclusions from data
-
-## 📋 Prerequisites
-
-- Basic Python knowledge
-- Familiarity with pandas, matplotlib, and seaborn
-- Google Colab account (recommended) or Jupyter environment
 
 ## 🚀 Quick Start
 
@@ -82,19 +69,6 @@ Click the "Open In Colab" badge above to run the notebook directly in your brows
 - **Format**: CSV, Excel
 - **Features**: Patient demographics, wait times, satisfaction ratings, temporal factors
 
-## 🔧 Required Packages
-
-```
-pandas >= 2.0.0
-numpy >= 1.24.0
-matplotlib >= 3.7.0
-seaborn >= 0.12.0
-scipy >= 1.10.0
-statsmodels >= 0.14.0
-jupyter >= 1.0.0
-openpyxl >= 3.1.0
-```
-
 ## 📖 Notebook Contents
 
 ### 1. Data Acquisition & Loading
@@ -119,37 +93,6 @@ openpyxl >= 3.1.0
 - Heatmaps and box plots
 - Interactive visualizations
 - Statistical plots
-
-## 📚 How to Use These Notebooks
-
-### For Students (Learning)
-1. **Start with the template**: Use `er_wait_time_data.ipynb`
-2. **Follow the instructions**: Complete each cell step by step
-3. **Reference the filled version**: Check `er_wait_time_data_filled.ipynb` if you get stuck
-4. **Focus on learning**: The template is designed for educational purposes
-
-### For Instructors (Teaching)
-1. **Use the template**: `er_wait_time_data.ipynb` for classroom instruction
-2. **Reference the filled version**: `er_wait_time_data_filled.ipynb` for answer key
-3. **Customize as needed**: Modify the template for your specific course requirements
-4. **Accessibility features**: Built-in support for diverse learning needs
-
-### For Researchers (Reference)
-1. **Use the filled version**: `er_wait_time_data_filled.ipynb` for complete analysis
-2. **Review methodology**: See the statistical approaches used
-3. **Adapt the code**: Modify for your own datasets
-4. **Cite appropriately**: Follow the citation guidelines in the notebook
-
-## 🎯 Notebook Comparison
-
-| Feature | Template (`er_wait_time_data.ipynb`) | Filled (`er_wait_time_data_filled.ipynb`) |
-|---------|--------------------------------------|-------------------------------------------|
-| **Purpose** | Learning and teaching | Reference and research |
-| **Code Execution** | Students run cells | Pre-executed with results |
-| **Outputs** | Students generate | Complete outputs included |
-| **Accessibility** | Full accessibility guide | Accessibility guide included |
-| **Educational Content** | Step-by-step instructions | Complete analysis |
-| **Best For** | Classroom instruction | Research reference |
 
 ## 📄 License
 
